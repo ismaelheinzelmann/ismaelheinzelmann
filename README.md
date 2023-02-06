@@ -2,8 +2,8 @@
 
 - 🤔 &nbsp; Exploring Android Development and New Tecnology
 - 🎓 &nbsp; **Computer Science** student at <a href="https://cco.ufsc.br/">Federal University of Santa Catarina</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 💼 &nbsp; Working as **Computer Security Researcher** at **LabSec(UFSC)**
+- 🌱 &nbsp; Learning more about **Kotlin and Android Development**.
 
 <h3> :rocket: &nbsp;Skills </h3>
 
