@@ -27,7 +27,6 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
  <br>
-<br/>
 
 <a href="https://github.com/ismaelheinzelmann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismaelheinzelmann&theme=dracula&show_icons=true" />
@@ -37,6 +36,6 @@
 
 <h3> :earth_americas: &nbsp;Contacts: </h3> 
 
-[![Linkedin: Ismael Heinzelmann](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-coral-hoepers-heinzelmann-5572aa18b/)](https://www.linkedin.com/in/ismael-coral-hoepers-heinzelmann-5572aa18b/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ismaelheinzelmann@gmail.com)](mailto:ismaelheinzelmann@gmail.com)
+[![Linkedin: Ismael Heinzelmann](https://img.shields.io/badge/-Ismael Heinzelmann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-coral-hoepers-heinzelmann-5572aa18b/)](https://www.linkedin.com/in/ismael-coral-hoepers-heinzelmann-5572aa18b/)
+[![Gmail Badge](https://img.shields.io/badge/-ismaelheinzelmann@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ismaelheinzelmann@gmail.com)](mailto:ismaelheinzelmann@gmail.com)
 [![GitHub Ismael Heinzelmann]( https://img.shields.io/github/followers/ismaelheinzelmann?label=follow&style=social)](https://github.com/ismaelheinzelmann)
